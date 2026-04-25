@@ -94,18 +94,6 @@ principle: "understand it from the ground up, then build something real"
 
 ---
 
-### Gist
-
-<div align="center">
-
-<!-- Replace YOUR_GIST_ID below with your actual Gist ID -->
-<!-- Find it at: https://gist.github.com/heralt-vernandes -->
-[![gist](https://github-readme-stats.vercel.app/api/gist?id=YOUR_GIST_ID&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&icon_color=4ade80&hide_border=true)](https://gist.github.com/heralt-vernandes)
-
-</div>
-
----
-
 <div align="center">
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=1d4ed8,0f2a7a,0&height=120&section=footer)](https://ibrohim-cv.geraldstudio.my.id)
