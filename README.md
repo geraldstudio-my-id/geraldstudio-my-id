@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/-gerald@geraldstudio.my.id-1a1916?style=flat-square&logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
 [![Instagram](https://img.shields.io/badge/-@heralt__vernandes-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/heralt_vernandes)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tJEGXAAp)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AttRoypTb/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/heralt-vernandes)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/heralt69)
 
 </div>
