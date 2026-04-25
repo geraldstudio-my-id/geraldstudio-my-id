@@ -23,8 +23,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=heralt-vernandes&show_icons=true&hide_border=true&rank_icon=github&bg_color=1a1916&title_color=7da4c8&icon_color=4ade80&text_color=d6d3cc&ring_color=1d4ed8" />
-
 ### About me
 
 I'm a tech enthusiast who gets genuinely excited about how things work — not just on the surface, but all the way down.
