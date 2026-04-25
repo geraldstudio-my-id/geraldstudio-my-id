@@ -11,11 +11,11 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)](https://ibrohim-cv.geraldstudio.my.id)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/tJEGXAAp) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/heraltvernandes) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heralt_vernandes) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2iMTxtHZ6) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tJEGXAAp)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1AttRoypTb/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/heralt_vernandes)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white)](https://pinterest.com/heralt69)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=heralt-vernandes&show_icons=true&hide_border=true&bg_color=1a1916&title_color=7da4c8&icon_color=4ade80&text_color=d6d3cc&ring_color=1d4ed8" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=heralt-vernandes&show_icons=true&hide_border=true&rank_icon=github&bg_color=1a1916&title_color=7da4c8&icon_color=4ade80&text_color=d6d3cc&ring_color=1d4ed8" />
 
 ### About me
 
@@ -89,6 +89,29 @@ principle: "understand it from the ground up, then build something real"
 [![streak](https://streak-stats.demolab.com?user=heralt-vernandes&theme=dark&hide_border=true&background=1a1916&stroke=1d4ed8&ring=1d4ed8&fire=4ade80&currStreakLabel=7da4c8&sideLabels=7da4c8&dates=7a776e&currStreakNum=fefcf8&sideNums=fefcf8)](https://git.io/streak-stats)
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heralt-vernandes&layout=compact&hide_border=true&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&langs_count=8)](https://ibrohim-cv.geraldstudio.my.id)
+
+</div>
+
+---
+
+### Pinned
+
+<div align="center">
+
+[![svc-node-8421](https://github-readme-stats.vercel.app/api/pin/?username=heralt-vernandes&repo=svc-node-8421&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&icon_color=4ade80&hide_border=true&description_lines_count=2)](https://github.com/heralt-vernandes/svc-node-8421)
+[![heralt-vernandes](https://github-readme-stats.vercel.app/api/pin/?username=heralt-vernandes&repo=heralt-vernandes&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&icon_color=4ade80&hide_border=true&description_lines_count=2)](https://github.com/heralt-vernandes/heralt-vernandes)
+
+</div>
+
+---
+
+### Gist
+
+<div align="center">
+
+<!-- Replace YOUR_GIST_ID below with your actual Gist ID -->
+<!-- Find it at: https://gist.github.com/heralt-vernandes -->
+[![gist](https://github-readme-stats.vercel.app/api/gist?id=YOUR_GIST_ID&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&icon_color=4ade80&hide_border=true)](https://gist.github.com/heralt-vernandes)
 
 </div>
 
