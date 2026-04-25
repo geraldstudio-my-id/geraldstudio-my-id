@@ -82,18 +82,6 @@ principle: "understand it from the ground up, then build something real"
 
 ---
 
-### Stats
-
-<div align="center">
-
-[![streak](https://streak-stats.demolab.com?user=heralt-vernandes&theme=dark&hide_border=true&background=1a1916&stroke=1d4ed8&ring=1d4ed8&fire=4ade80&currStreakLabel=7da4c8&sideLabels=7da4c8&dates=7a776e&currStreakNum=fefcf8&sideNums=fefcf8)](https://git.io/streak-stats)
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heralt-vernandes&layout=compact&hide_border=true&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&langs_count=8)](https://ibrohim-cv.geraldstudio.my.id)
-
-</div>
-
----
-
 <div align="center">
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=1d4ed8,0f2a7a,0&height=120&section=footer)](https://ibrohim-cv.geraldstudio.my.id)
