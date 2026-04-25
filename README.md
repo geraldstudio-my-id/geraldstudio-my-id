@@ -1,6 +1,6 @@
 <div align="center">
 
-[header](https://capsule-render.vercel.app/api?type=waving&color=0,0f2a7a,1d4ed8&height=220&section=header&text=Gerald%20Ibrani&fontSize=58&fontFamily=IBM%20Plex%20Mono&fontColor=fefcf8&fontAlignY=45&desc=heralt-vernandes&descSize=15&descAlignY=67&descColor=7da4c8&animation=fadeIn&stroke=1d4ed8&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,0f2a7a,1d4ed8&height=220&section=header&text=Gerald%20Ibrani&fontSize=58&fontFamily=IBM%20Plex%20Mono&fontColor=fefcf8&fontAlignY=45&desc=heralt-vernandes&descSize=15&descAlignY=67&descColor=7da4c8&animation=fadeIn&stroke=1d4ed8&strokeWidth=1)
 
 </div>
 
