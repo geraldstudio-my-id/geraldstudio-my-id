@@ -43,7 +43,7 @@ Status     →  Always tinkering
 
 | | Handle | Focus |
 |:---:|:---|:---|
-| 🧠 | **Gerald** — `heralt-vernandes` | Systems · AI · Web |
+| 🧠 | **Gerald** — `gerald@geraldstudio.my.id` | Systems · AI · Web |
 | 🔌 | **[Ibrohim](ibrohim.cv.geraldstudio.my.id)** — `ibrohim@geraldstudio.my.id` | Network Infra · BGP · MikroTik |
 
 </div>
