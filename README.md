@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=680&lines=Tech+Enthusiast+%C2%B7+Builder+%C2%B7+Learner;Computer+Networking+%2F+System+Development+%2F+AI;Linux+%C2%B7+Virtual+Machines+%C2%B7+Network+Systems;I+learn+by+doing+%E2%80%94+always+have%2C+always+will.)](https://ibrohim-cv.geraldstudio.my.id)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=680&lines=Tech+Enthusiast+%C2%B7+Builder+%C2%B7+Learner;Computer+Networking+%2F+System+Development+%2F+AI;Linux+%C2%B7+Virtual+Machines+%C2%B7+Network+Systems;I+learn+by+doing+%E2%80%94+always+have%2C+always+will.)
 
 <br/>
 
