@@ -1,21 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0,0f2a7a,1d4ed8&height=220&section=header&text=Gerald%20Ibrani&fontSize=58&fontFamily=IBM%20Plex%20Mono&fontColor=fefcf8&fontAlignY=45&desc=heralt-vernandes&descSize=15&descAlignY=67&descColor=7da4c8&animation=fadeIn&stroke=1d4ed8&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,0f2a7a,1d4ed8&height=220&section=header&text=GeraldStudio&fontSize=58&fontFamily=IBM%20Plex%20Mono&fontColor=fefcf8&fontAlignY=45&desc=geraldstudio.my.id&descSize=15&descAlignY=67&descColor=7da4c8&animation=fadeIn&stroke=1d4ed8&strokeWidth=1)
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=680&lines=Tech+Enthusiast+%C2%B7+Builder+%C2%B7+Learner;Computer+Networking+%2F+System+Development+%2F+AI;Linux+%C2%B7+Virtual+Machines+%C2%B7+Network+Systems;I+learn+by+doing+%E2%80%94+always+have%2C+always+will.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=720&lines=Infrastructure+%C2%B7+Systems+%C2%B7+Automation+%C2%B7+AI;We+build+things+that+actually+work.;Networking+%2F+System+Development+%2F+Intelligent+Tools;Small+team.+Sharp+focus.+Real+output.)
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)](https://geraldstudio.my.id)
+[![Website](https://img.shields.io/badge/geraldstudio.my.id-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)](https://geraldstudio.my.id)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tJEGXAAp)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1AttRoypTb/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/heralt_vernandes)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white)](https://pinterest.com/heralt69)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
+[![Email](https://img.shields.io/badge/Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
 
 </div>
 
@@ -23,26 +22,36 @@
 
 ---
 
-### About me
+### Who we are
 
-I'm a tech enthusiast who gets genuinely excited about how things work — not just on the surface, but all the way down.
+**GeraldStudio** is a small, focused team based in Indonesia. We sit at the intersection of **network infrastructure**, **system development**, and **AI tooling** — and we care a lot about building things that are solid from the ground up, not just on the surface.
 
-My focus sits at the intersection of **networking**, **system development**, and **artificial intelligence**. I spend most of my time in Linux environments, building on virtual machines, and tinkering with network systems. If there's a server to configure, a bot to write, or a pipeline to automate — that's where I want to be.
-
-I learn best by doing. Theory is fine, but I need to break things, rebuild them, and understand why they work before it sticks.
+We're not a big agency. We're engineers who learn by doing, break things intentionally, rebuild them better, and ship work we're proud of.
 
 ```
-Location   →  Indonesia
-Focus      →  Networking · Systems · AI
-Learning   →  Always
-Available  →  Yes
+Studio      →  GeraldStudio
+Location    →  Indonesia
+Domain      →  geraldstudio.my.id
+Focus       →  Networking · Systems · AI
+Status      →  Active · Open to collaboration
 ```
-
-<br clear="right"/>
 
 ---
 
-### What I work with
+### The team
+
+<div align="center">
+
+| | Member | Role | Focus |
+|:---:|:---|:---|:---|
+| 👾 | **Gerald Ibrani** · [heralt-vernandes](https://github.com/heralt-vernandes) | Founder · System Dev | Linux · AI · Automation · Bot Development |
+| 🛜 | **Ibrohim** | Network & Infrastructure | BGP · MikroTik · Cisco · GPON · SysAdmin |
+
+</div>
+
+---
+
+### What we work with
 
 <div align="center">
 
@@ -62,21 +71,29 @@ Available  →  Yes
 
 ---
 
-### What I'm building toward
+### What we're building toward
 
 ```yaml
-interests:
-  - Network automation at scale
-  - Machine learning & AI fundamentals
-  - Infrastructure-meets-intelligence
+studio_focus:
+  - Scalable network automation & infrastructure tooling
+  - AI-assisted systems for real-world ops workflows
+  - Lightweight internal tools that don't overcomplicate things
 
-currently_targeting:
-  - MTCNA   # MikroTik Certified Network Associate
+team_targets:
+  - MTCNA    # MikroTik Certified Network Associate
   - CompTIA Network+
   - Linux Essentials (LPI)
 
 principle: "understand it from the ground up, then build something real"
 ```
+
+---
+
+### Open to
+
+We're open to collaborating on things that involve real infrastructure, honest engineering, or useful automation. Not looking to pad portfolios — looking to build things that matter.
+
+→ Reach us at **[gerald@geraldstudio.my.id](mailto:gerald@geraldstudio.my.id)** or **[ibrohim@geraldstudio.my.id](mailto:ibrohim@geraldstudio.my.id)**
 
 ---
 
