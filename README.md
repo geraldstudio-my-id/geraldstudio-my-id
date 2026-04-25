@@ -11,11 +11,11 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/-ibrohim--cv.geraldstudio.my.id-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)](https://ibrohim-cv.geraldstudio.my.id)
-[![Email](https://img.shields.io/badge/-gerald@geraldstudio.my.id-1a1916?style=flat-square&logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
-[![Instagram](https://img.shields.io/badge/-@heralt__vernandes-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/heralt_vernandes)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tJEGXAAp)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/heralt-vernandes)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/heralt69)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/tJEGXAAp) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/heraltvernandes) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heralt_vernandes) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/heralt69) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
 
 </div>
 
