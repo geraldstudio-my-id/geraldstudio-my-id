@@ -48,7 +48,7 @@ Available  →  Yes
 
 <div align="center">
 
-[![skillicons](https://skillicons.dev/icons?i=linux,python,bash,ansible,docker,vim,nginx,git&theme=dark&perline=8)](https://ibrohim-cv.geraldstudio.my.id)
+![skillicons](https://skillicons.dev/icons?i=linux,python,bash,ansible,docker,vim,nginx,git&theme=dark&perline=8)
 
 </div>
 
@@ -84,6 +84,6 @@ principle: "understand it from the ground up, then build something real"
 
 <div align="center">
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=1d4ed8,0f2a7a,0&height=120&section=footer)](https://ibrohim-cv.geraldstudio.my.id)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1d4ed8,0f2a7a,0&height=120&section=footer)
 
 </div>
