@@ -12,6 +12,7 @@
 
 [![Website](https://img.shields.io/badge/Website-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)](https://geraldstudio.my.id)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tJEGXAAp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerald@geraldstudio.my.id)
 
 </div>
 
