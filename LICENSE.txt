@@ -1,0 +1,148 @@
+GERALD STUDIO EXCLUSIVE LICENSE (GSEL) v1.0
+============================================
+
+Copyright (c) 2026 Gerald Studio. All Rights Reserved.
+
+This license governs the use, reproduction, modification, and distribution
+of this repository and all associated materials ("the Work"). By accessing,
+viewing, forking, or otherwise interacting with the Work, you agree to be
+bound by the terms of this License.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 1 — GRANT OF PERMISSION
+
+Subject to the terms of this License, the Licensor grants you a limited,
+non-exclusive, non-transferable, and revocable permission to:
+
+  (a) View, access, and study the source code and associated materials;
+  (b) Fork the repository through supported platform mechanisms;
+  (c) Modify your forked version strictly for personal, private, and
+      non-commercial use.
+
+This permission does not constitute a transfer of ownership in any form.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 2 — FORKING AND MODIFICATION
+
+You are explicitly permitted to:
+
+  • Fork this repository into your own account;
+  • Modify the forked version;
+  • Deploy or host your modified version for personal use only.
+
+The following conditions must be observed at all times:
+
+  • Your fork must remain clearly independent and must not imply any
+    association with or endorsement by the original project or author.
+  • You must not present your fork as the original or any official version
+    of the Work.
+  • Visible attribution to the original author must be retained wherever
+    reasonably applicable.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 3 — PROHIBITED USES
+
+The following actions are strictly prohibited under any and all circumstances:
+
+  (a) Using the Work or any derivative for commercial purposes;
+  (b) Selling, sublicensing, leasing, or monetizing the original or any
+      modified version;
+  (c) Redistributing the original repository outside of official platforms;
+  (d) Claiming ownership of the original Work or any substantial portion thereof;
+  (e) Removing, altering, or obscuring any copyright or license notices;
+  (f) Incorporating the Work into any SaaS product, hosted service, or
+      commercial product offering;
+  (g) Performing large-scale replication, mirroring, or archival for
+      public distribution;
+  (h) Using the Work in any manner that competes with, substitutes for, or
+      otherwise undermines the original author's work or interests.
+
+Any use not explicitly granted by this License is prohibited by default.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 4 — NO COMMERCIAL USE
+
+"Commercial use" means any use that is primarily intended for commercial
+advantage or monetary compensation. This includes, but is not limited to:
+
+  • Selling products or services derived from or incorporating the Work;
+  • Generating revenue — directly or indirectly — through use of the Work;
+  • Deploying the Work within business environments, client engagements,
+    or production systems tied to monetary gain.
+
+No exceptions apply without explicit prior written permission from the Licensor.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 5 — OWNERSHIP
+
+All rights, title, and interest in and to the original Work remain exclusively
+with the Licensor. The creation of a fork or derivative does not transfer or
+diminish the Licensor's ownership of the original material. You retain
+ownership only of your own original modifications, subject to this License.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 6 — ENFORCEMENT
+
+This License shall be governed by and construed in accordance with the laws
+of the State of California, United States, without regard to its conflict
+of law provisions.
+
+Violation of any term of this License may result in:
+
+  • Immediate and automatic termination of all granted permissions;
+  • Legal action for damages, injunctions, or other equitable relief;
+  • Claims under applicable intellectual property and copyright law.
+
+The Licensor reserves the right to pursue enforcement in any competent
+jurisdiction worldwide.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 7 — DISCLAIMER OF WARRANTIES
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, RELIABILITY, AVAILABILITY, OR
+NON-INFRINGEMENT. YOUR USE OF THE WORK IS ENTIRELY AT YOUR OWN RISK.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 8 — LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY — WHETHER IN CONTRACT, TORT, OR OTHERWISE — ARISING FROM OR IN
+CONNECTION WITH THE USE OF, INABILITY TO USE, OR UNAUTHORIZED USE OF THE WORK.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 9 — TERMINATION
+
+This License terminates automatically upon any violation of its terms.
+Upon termination, you must immediately:
+
+  (a) Cease all use of the Work and any derivative thereof;
+  (b) Remove all copies in your possession or under your control.
+
+Termination does not limit the Licensor's right to seek remedies for
+past violations.
+
+────────────────────────────────────────────────────────────────────────────
+
+SECTION 10 — FINAL NOTE
+
+This project exists as-is — without obligation, expectation, or guarantee.
+
+You are welcome to explore it.
+You are welcome to fork it.
+
+Beyond that, respect the boundaries.
+
+────────────────────────────────────────────────────────────────────────────
+
+END OF LICENSE — GERALD STUDIO EXCLUSIVE LICENSE (GSEL) v1.0
