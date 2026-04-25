@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/-ibrohim--cv.geraldstudio.my.id-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)](https://ibrohim-cv.geraldstudio.my.id)
+[![Website](https://img.shields.io/badge/-website-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)](https://ibrohim-cv.geraldstudio.my.id)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/tJEGXAAp) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/heraltvernandes) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heralt_vernandes) 
