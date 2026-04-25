@@ -94,17 +94,6 @@ principle: "understand it from the ground up, then build something real"
 
 ---
 
-### Pinned
-
-<div align="center">
-
-[![svc-node-8421](https://github-readme-stats.vercel.app/api/pin/?username=heralt-vernandes&repo=svc-node-8421&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&icon_color=4ade80&hide_border=true&description_lines_count=2)](https://github.com/heralt-vernandes/svc-node-8421)
-[![heralt-vernandes](https://github-readme-stats.vercel.app/api/pin/?username=heralt-vernandes&repo=heralt-vernandes&bg_color=1a1916&title_color=7da4c8&text_color=d6d3cc&icon_color=4ade80&hide_border=true&description_lines_count=2)](https://github.com/heralt-vernandes/heralt-vernandes)
-
-</div>
-
----
-
 ### Gist
 
 <div align="center">
