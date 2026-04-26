@@ -45,6 +45,7 @@ Status     →  Always tinkering
 |:---:|:---|:---|
 | 🧠 | **Gerald** — `gerald@geraldstudio.my.id` | Systems · AI · Web |
 | 🔌 | **[Ibrohim](ibrohim.geraldstudio.my.id)** — `ibrohim@geraldstudio.my.id` | Network Infra · BGP · MikroTik |
+| 💐 | **Camellia** - #### | #### |
 
 </div>
 
