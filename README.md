@@ -45,7 +45,7 @@ Status     →  Always tinkering
 |:---:|:---|:---|
 | 🍫 | **Gerald** — #### | #### |
 | 🌌 | **[Ibrohim](ibrohim.geraldstudio.my.id)** — #### | #### |
-| 💐 | **Camellia** - #### | #### |
+| 💐 | **Camellia** — #### | #### |
 
 </div>
 
